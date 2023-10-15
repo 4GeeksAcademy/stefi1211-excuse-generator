@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    background: rgb(185,230,233);
+    background: linear-gradient(164deg, rgba(185,230,233,1) 0%, rgba(235,197,241,1) 95%);
+    height: 100vh;
+}
+
+
+.container {
+    margin-top: 200px;
+}
